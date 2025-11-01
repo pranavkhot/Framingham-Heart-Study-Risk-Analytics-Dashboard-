@@ -38,8 +38,3 @@ Risk score distribution, CHD by risk score, outcome by age and sex, CHD by lifes
 ## 🧾 Project Summary
 
 Built a multi page Power BI dashboard to analyze demographic, lifestyle, clinical, and outcome variables from the Framingham Heart Study. Developed advanced DAX measures and calculated fields to derive actionable KPIs. Designed pages for Executive Overview, Clinical Insights, and Risk Outcomes with slicers and diverse visuals to highlight CHD drivers such as age, smoking, cholesterol, and hypertension.
-
-## 🙏 Acknowledgments
-
-The Framingham Heart Study for its foundational cardiovascular research dataset
-The Power BI and DAX community for patterns and best practices
